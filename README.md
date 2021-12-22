@@ -26,3 +26,8 @@ Run
 ```
 node main.js
 ```
+
+
+## Reference 
+Using the Ethereum JSON-RPC API with Amazon Managed Blockchain
+https://docs.aws.amazon.com/managed-blockchain/latest/ethereum-dev/ethereum-json-rpc.html
