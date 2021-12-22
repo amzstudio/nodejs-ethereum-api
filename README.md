@@ -1,4 +1,4 @@
-# @aws/web3-ws-provider
+# [Nodejs] WS Ethereum API
 
 This is an NPM package that takes care of Signature Version 4 authentication
 for websocket connections to Ethereum nodes on
